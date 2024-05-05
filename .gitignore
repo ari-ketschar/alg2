@@ -3,3 +3,7 @@ lab1/build/
 lab1/googletest/
 lab1/test.c
 lab1/.vs
+lab2/build/
+lab2/googletest/
+lab2/test.c
+lab2/.vs
